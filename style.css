@@ -15,10 +15,4 @@ nav{
   left: 0;
 }
 
-li a {
-  color: hotpink;
-  text-decoration: hotpink underline overline 1.5px;
-  display: block;
-  float: left;
-  padding: 20px 40px;  
-}
+
