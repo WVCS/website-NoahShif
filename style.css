@@ -2,11 +2,9 @@ h1 {
   color: hotpink;
   text-decoration: hotpink line-through 4px
 }
-
 body {
   background-color: black;
 }
-
 nav {
   list-style-type: none;
   width: 100%;
@@ -15,7 +13,6 @@ nav {
   top: 0;
   left: 0;
 }
-
 li a {
   color: hotpink;
   text-decoration: hotpink underline overline 1.5px;
